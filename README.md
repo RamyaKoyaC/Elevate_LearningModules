@@ -1,4 +1,4 @@
-# Elevate_LearningModules
+# LearningModules
 
 If you have an error using GitBash
 
