@@ -28,3 +28,19 @@ Once you reach the file, click on the area which is underlined and do a right cl
 
 including TSLint. 
 
+### How to find the node verison installed on your system? 
+go to cmd >
+
+``` 
+node -v 
+```
+
+### How to get your ip of your system? 
+
+go to cmd >
+```
+ipconfig
+```
+
+
+
